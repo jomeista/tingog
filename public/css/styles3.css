@@ -1,0 +1,75 @@
+body {
+    font-family: "Montserrat";
+  text-align: center;
+}
+/* Navigation bar */
+.navbar {
+  background-color: #ff4c68;
+  padding: 3% 15% 1%;
+}
+
+.navbar-brand {
+  font-family: Ubuntu;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-family: "Montserrat-Light";
+  font-size: 1.2rem;
+}
+
+/* Profile Section */
+#Profile {
+  padding: 7% 15%;
+  position: relative;
+  background-color: #fff;
+}
+
+.dog-image {
+  padding-bottom: 7%;
+  border-radius: 100%;
+  width: 100%;
+  margin: 10%;
+}
+
+li{
+  color: #8f8f8f;
+}
+
+.profile-icon {
+  margin-bottom: 15px;
+  margin: 30px 20px 30px;
+  padding-left: 15%;
+
+}
+
+/* Call to Action */
+#cta {
+  padding: 3% 10%;
+  position: relative;
+  background-color: #ff4c68;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.download-button {
+  margin: 5% 3% 5% 0;
+}
+
+/* Footer */
+#footer {
+  padding: 1% 15% 3%;
+  position: relative;
+  background-color: #fff;
+}
+
+.footer-icon {
+  margin-bottom: 15px;
+  margin: 30px 20px 30px;
+  padding-left: 5%;
+}
